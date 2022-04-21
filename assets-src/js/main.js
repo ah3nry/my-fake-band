@@ -1,6 +1,6 @@
 // import '@shoelace-style/shoelace/dist/components/button/button.js';
 import '@shoelace-style/shoelace/dist/components/dialog/dialog';
-import '@h3nry/simple-audio-player-wc';
+import 'player-wc/player-wc';
 
 
 const $body = document.querySelector('body');
